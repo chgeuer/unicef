@@ -18,3 +18,5 @@ webpack ./app.js
   - Fetch data from local storage
   - Decrypt
   - Show
+
+<img src="doc/img/page.png">
