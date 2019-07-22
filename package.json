@@ -1,0 +1,11 @@
+{
+  "name": "unicef",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "Base64": "^1.0.2",
+    "browserify-aes": "^1.2.0",
+    "pbkdf2": "^3.0.17"
+  }
+}
